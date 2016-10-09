@@ -17,4 +17,3 @@ List of class:
 - Led 
 - AnalogIn
 - Buzzer
-# Peripheral
